@@ -1,0 +1,15 @@
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\bin\Debug\netstandard2.1\HRManagment.Infrastructure.deps.json
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\bin\Debug\netstandard2.1\HRManagment.Infrastructure.dll
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\bin\Debug\netstandard2.1\HRManagment.Infrastructure.pdb
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\obj\Debug\netstandard2.1\HRManagment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\obj\Debug\netstandard2.1\HRManagment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\obj\Debug\netstandard2.1\HRManagment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\obj\Debug\netstandard2.1\HRManagment.Infrastructure.AssemblyInfo.cs
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\obj\Debug\netstandard2.1\HRManagment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\obj\Debug\netstandard2.1\HRManagment.Infrastructure.dll
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\obj\Debug\netstandard2.1\HRManagment.Infrastructure.pdb
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\bin\Debug\netstandard2.1\HRManagment.Application.dll
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\bin\Debug\netstandard2.1\HRManagment.Domain.dll
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\bin\Debug\netstandard2.1\HRManagment.Application.pdb
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\bin\Debug\netstandard2.1\HRManagment.Domain.pdb
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Infrastructure\obj\Debug\netstandard2.1\HRManagment.Infrastructure.csproj.CopyComplete

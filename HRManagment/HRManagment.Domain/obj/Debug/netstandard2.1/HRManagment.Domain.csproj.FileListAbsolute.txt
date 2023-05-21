@@ -1,0 +1,10 @@
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Domain\bin\Debug\netstandard2.1\HRManagment.Domain.deps.json
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Domain\bin\Debug\netstandard2.1\HRManagment.Domain.dll
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Domain\bin\Debug\netstandard2.1\HRManagment.Domain.pdb
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Domain\obj\Debug\netstandard2.1\HRManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Domain\obj\Debug\netstandard2.1\HRManagment.Domain.AssemblyInfoInputs.cache
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Domain\obj\Debug\netstandard2.1\HRManagment.Domain.AssemblyInfo.cs
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Domain\obj\Debug\netstandard2.1\HRManagment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Domain\obj\Debug\netstandard2.1\HRManagment.Domain.dll
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Domain\obj\Debug\netstandard2.1\HRManagment.Domain.pdb
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Domain\obj\Debug\netstandard2.1\HRManagment.Domain.csproj.AssemblyReference.cache

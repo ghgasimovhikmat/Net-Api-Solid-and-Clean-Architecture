@@ -1,0 +1,372 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
+        "projectName": "HR.LeaveManagement.Api",
+        "projectPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
+        "packagesPath": "C:\\Users\\Apokalipsis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HR.LeaveManagement.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Apokalipsis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Application\\HRManagment.Application.csproj": {
+                "projectPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Application\\HRManagment.Application.csproj"
+              },
+              "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Infrastructure\\HRManagment.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Infrastructure\\HRManagment.Infrastructure.csproj"
+              },
+              "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Persistence\\HRManagment.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Persistence\\HRManagment.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Application\\HRManagment.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Application\\HRManagment.Application.csproj",
+        "projectName": "HRManagment.Application",
+        "projectPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Application\\HRManagment.Application.csproj",
+        "packagesPath": "C:\\Users\\Apokalipsis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Apokalipsis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Domain\\HRManagment.Domain.csproj": {
+                "projectPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Domain\\HRManagment.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Domain\\HRManagment.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Domain\\HRManagment.Domain.csproj",
+        "projectName": "HRManagment.Domain",
+        "projectPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Domain\\HRManagment.Domain.csproj",
+        "packagesPath": "C:\\Users\\Apokalipsis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Apokalipsis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Infrastructure\\HRManagment.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Infrastructure\\HRManagment.Infrastructure.csproj",
+        "projectName": "HRManagment.Infrastructure",
+        "projectPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Infrastructure\\HRManagment.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Apokalipsis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Apokalipsis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Application\\HRManagment.Application.csproj": {
+                "projectPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Application\\HRManagment.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.27.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Persistence\\HRManagment.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Persistence\\HRManagment.Persistence.csproj",
+        "projectName": "HRManagment.Persistence",
+        "projectPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Persistence\\HRManagment.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Apokalipsis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Apokalipsis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Application\\HRManagment.Application.csproj": {
+                "projectPath": "C:\\Users\\Apokalipsis\\source\\repos\\HRManagment\\HRManagment.Application\\HRManagment.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

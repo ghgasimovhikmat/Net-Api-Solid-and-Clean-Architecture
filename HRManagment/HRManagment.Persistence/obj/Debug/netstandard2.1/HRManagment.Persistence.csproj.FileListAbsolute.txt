@@ -1,0 +1,15 @@
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\obj\Debug\netstandard2.1\HRManagment.Persistence.csproj.AssemblyReference.cache
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\obj\Debug\netstandard2.1\HRManagment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\obj\Debug\netstandard2.1\HRManagment.Persistence.AssemblyInfoInputs.cache
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\obj\Debug\netstandard2.1\HRManagment.Persistence.AssemblyInfo.cs
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\obj\Debug\netstandard2.1\HRManagment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\bin\Debug\netstandard2.1\HRManagment.Persistence.deps.json
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\bin\Debug\netstandard2.1\HRManagment.Persistence.dll
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\bin\Debug\netstandard2.1\HRManagment.Persistence.pdb
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\bin\Debug\netstandard2.1\HRManagment.Application.dll
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\bin\Debug\netstandard2.1\HRManagment.Domain.dll
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\bin\Debug\netstandard2.1\HRManagment.Application.pdb
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\bin\Debug\netstandard2.1\HRManagment.Domain.pdb
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\obj\Debug\netstandard2.1\HRManagment.Persistence.csproj.CopyComplete
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\obj\Debug\netstandard2.1\HRManagment.Persistence.dll
+C:\Users\Apokalipsis\source\repos\HRManagment\HRManagment.Persistence\obj\Debug\netstandard2.1\HRManagment.Persistence.pdb
